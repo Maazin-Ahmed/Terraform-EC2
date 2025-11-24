@@ -1,0 +1,3 @@
+Interpolation
+the process of using different agruements from one block to any other block within the terraform file 
+Eg. vpc.id (in security block)= aws_default_vpc.default.id
